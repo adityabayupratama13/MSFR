@@ -1,0 +1,25 @@
+Wifi Rumah Adit
+Local
+Node Red
+Flow : http://192.168.100.44:1880/#flow/7e2f22fb.731edc
+Dashboard : http://192.168.100.44:1880/ui/#!/2?socketid=xYy10YfWWLb-_2IUAAAJ
+Phpmyadmin : http://192.168.100.44/phpmyadmin/sql.php?server=1&db=Internet&table=Smoke&pos=0&token=af7d89c5b8b0dd8db93c542e68569b75
+
+
+
+Wifi HP Adit
+Node Red
+Flow : http://172.20.10.4:1880/#flow/7e2f22fb.731edc
+Dashboard : http://172.20.10.4:1880/ui/#!/0?socketid=LQOYjaThgWZFQu5AAAAH
+Phpmyadmin : http://172.20.10.4/phpmyadmin/index.php
+
+
+
+IBM
+Quick Start : https://quickstart.internetofthings.ibmcloud.com/#/device/caa5f32b.e0fb5/sensor/
+Server IBM : https://klsjue.internetofthings.ibmcloud.com/dashboard/devices/browse
+Cloud IBM : https://cloud.ibm.com/
+
+Node Red Online
+Flow : http://newdreamtech.mybluemix.net/red/#flow/2ab5085e.1c82d8
+Dashboard : http://newdreamtech.mybluemix.net/ui/#!/0?socketid=efcxrWdjb6KGoPb6AAAX
